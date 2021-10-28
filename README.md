@@ -71,35 +71,35 @@ Plotting different charts of all dimensions and measures to carry out a visualiz
 
 (to be continued)
 
-Sum Sales by Location Type
+### Sum Sales by Location Type
 
 ![Sum Sales by Location Type](https://user-images.githubusercontent.com/70437668/138651520-bf483460-e0ee-444e-9d5b-5f6549f03d68.jpg)
 
-Sum Sales by Store ID
+### Sum Sales by Store ID
 
 ![Sum Sales by Store ID](https://user-images.githubusercontent.com/70437668/138651512-6a4c58b3-34af-460d-b8c8-1a2bc5eaf82b.jpg)
 
-Sum Sales by Region Code
+### Sum Sales by Region Code
 
 ![Sum Sales by Region Code](https://user-images.githubusercontent.com/70437668/138651503-b8aa0b5d-f8a3-4c5d-9fdc-d4b1400986d9.jpg)
 
-Sum Sales by Discount
+### Sum Sales by Discount
 
 ![Sum Sales by Discount](https://user-images.githubusercontent.com/70437668/138651493-f40dc14c-58f4-4fce-9df9-dbcedff4a7a7.jpg)
 
-Sum Sales by Store Type
+### Sum Sales by Store Type
 
 ![Sum Sales by Store Type](https://user-images.githubusercontent.com/70437668/138651488-4bfea094-d81a-4de1-b084-6a43f23c15c4.jpg)
 
-Sum Sales by Store Type, Location Type
+### Sum Sales by Store Type, Location Type
 
 ![Sum Sales by Store Type, Location Type](https://user-images.githubusercontent.com/70437668/138651482-74472aaf-aba8-4234-a5b9-c4a67dbd5ec8.jpg)
 
-Sum Sales by Date
+### Sum Sales by Date
 
 ![Sum Sales by Date](https://user-images.githubusercontent.com/70437668/138651472-94545bb4-c251-4b9e-b865-f377da3988d2.jpg)
 
-Sum Order by Holiday
+### Sum Order by Holiday
 
 ![Sum Order by Holiday](https://user-images.githubusercontent.com/70437668/138651462-a5f62235-0be9-4e12-a670-486a6fd6594e.jpg)
 
