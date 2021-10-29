@@ -103,3 +103,12 @@ Plotting different charts of all dimensions and measures to carry out a visualiz
 
 ![Sum Order by Holiday](https://user-images.githubusercontent.com/70437668/138651462-a5f62235-0be9-4e12-a670-486a6fd6594e.jpg)
 
+### Dashboard - Store Type, Location Type, Region Code
+
+![Dashboard - Store Type, Location Type, Region Code](https://user-images.githubusercontent.com/70437668/139374543-48d7402d-ec37-4d09-b5d1-f831a41f81e4.jpg)
+
+### Dashboard - Sum Sales & Sum Order
+
+![Dashboard - Sum Sales   Sum Order](https://user-images.githubusercontent.com/70437668/139374553-c9fa2083-3a94-4714-9a25-e608a505b711.jpg)
+
+
