@@ -1,4 +1,10 @@
-# Sales-Forecasting-WOMart-Store-Retail-Tableau
+# Sales-Forecasting-WOMart-Store-Retail-Tableau-Power BI
+
+## Tools:
+
+- Tableau
+
+- Power BI
 
 ## Category:
 
